@@ -50,6 +50,8 @@ public class GeneralConfig {
 			"com.refinedmods.refinedstorage.screen.grid.GridScreen", 
 			"appeng.client.gui.implementations.CraftingTermScreen", 
 			"appeng.client.gui.implementations.PatternTermScreen",
+			"appeng.client.gui.me.items.CraftingTermScreen", 
+			"appeng.client.gui.me.items.PatternTermScreen",
 			"com.blakebr0.extendedcrafting.client.screen.EliteTableScreen",
 			"com.blakebr0.extendedcrafting.client.screen.EliteAutoTableScreen",
 			"com.blakebr0.extendedcrafting.client.screen.UltimateTableScreen",
